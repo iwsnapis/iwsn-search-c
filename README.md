@@ -1,1 +1,1 @@
-# iwsn-search-c
+# IWSN Search Client Libraries for C and C++
